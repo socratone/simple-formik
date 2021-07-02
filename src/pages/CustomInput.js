@@ -4,7 +4,7 @@ import DatePicker from '../components/DatePicker';
 const CustomInput = () => {
   return (
     <section>
-      <h2>커스텀 인풋</h2>
+      <h2>Custom Input</h2>
       <main>
         <Formik
           initialValues={{ date: '' }}
